@@ -1,0 +1,2 @@
+The first day of our range is 01/01/1000, while the last is 31/12/2999.
+13/08/999 should not be detected, as well as 09/11/3000. 32/11/2000, 30/13/1999, 31/04/1993 should not be detected. 29/02/2000 should be. 30/02/2000 should not. And 29/02/1996 is correct. and 29/02/1997 is not.
